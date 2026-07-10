@@ -53,7 +53,7 @@ pip install ultralytics opencv-python
 ## ▶️ Run the Project
 
 ```bash
-python detect.py
+python Webcame Project.py
 ```
 
 - A window titled **"YOLO Webcam"** will open showing live detections.
@@ -66,7 +66,7 @@ python detect.py
 ```
 yolo-webcam-detection/
 │
-├── detect.py          # Main script
+├── Webcame Project.py          # Main script
 ├── requirements.txt   # Dependencies
 ├── screenshot.png     # Demo screenshot
 └── README.md          # This file
@@ -98,6 +98,7 @@ opencv-python
 
 In the demo screenshot, the model correctly detects:
 - ✅ **Bottle** — 93% confidence (plastic water bottle)
+- ✅ **Cell** phone-92% confidence
 - ⚠️ **Bird** — 27% confidence (butterfly pattern on wallpaper — a false positive!)
 
 The low-confidence bird detection is a great example of how background patterns can sometimes confuse the model.
@@ -123,4 +124,4 @@ MIT License — feel free to use and modify.
 ## 🙋 Author
 
 **Your Name**  
-[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/pragatiarya27) | [LinkedIn](https://www.linkedin.com/in/pragati-arya-547222338/)
