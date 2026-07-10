@@ -74,13 +74,6 @@ yolo-webcam-detection/
 
 ---
 
-## 📋 requirements.txt
-
-```
-ultralytics
-opencv-python
-```
-
 ---
 
 ## 🧠 How It Works
