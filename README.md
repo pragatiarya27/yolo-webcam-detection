@@ -4,7 +4,7 @@ Real-time object detection using YOLOv8 and OpenCV via webcam.
 
 A lightweight real-time object detection app that uses your webcam and the YOLOv8 model to detect and label objects live on screen.
 
-Demo-Screenshot 2026-07-11 015307.png,Screenshot 2026-07-11 015614.png)
+[Demo]-Screenshot 2026-07-11 015307.png,Screenshot 2026-07-11 015614.png)
 
 ---
 
